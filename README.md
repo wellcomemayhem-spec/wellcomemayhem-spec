@@ -1,19 +1,16 @@
-![interactive-ui development](https://media3.giphy.com/media/v1.Y2lkPTdiYzJhNDkwaHoxejF2Zm1uemVqNnB1enJjbWh0MnZlb2ZzOTF0cmszOWdxYmJjYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1207mdjYyU08Wk/giphy.gif)
-
 # Introduction
-Hello! I'm wellcomemayhem-spec, a dedicated software developer with a focus on building efficient and scalable applications.
+Welcome to my GitHub profile! I'm wellcomemayhem-spec, a passionate developer who loves to create and share innovative solutions. 
 
 # Skills
-- Programming Languages: JavaScript, Python, Java
-- Frameworks: React, Node.js, Django
-- Tools: Git, Docker, AWS
-- Databases: MySQL, MongoDB
+- **Programming Languages:** JavaScript, Python, Java
+- **Frameworks:** React, Node.js, Django
+- **Tools:** Git, Docker, AWS
 
 # Projects
-- **Project A**: A web application for task management built with React and Node.js.
-- **Project B**: An API service for data retrieval using Python and Flask.
-- **Project C**: A cloud-based solution for file storage and sharing on AWS.
+- **Awesome Project:** A web application that does XYZ.
+- **Open Source Contribution:** Contributed to ABC project, enhancing its features.
 
 # Contacts
-- Email: wellcomemayhem-spec@example.com
-- LinkedIn: [wellcomemayhem-spec](https://www.linkedin.com/in/wellcomemayhem-spec)
+Feel free to reach out:
+- Email: wellcomemayhem@example.com
+- LinkedIn: [linkedin.com/in/wellcomemayhem](https://linkedin.com/in/wellcomemayhem)
