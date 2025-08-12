@@ -1,16 +1,16 @@
-# Introduction
-Welcome to my GitHub profile! I'm wellcomemayhem-spec, a passionate developer who loves to create and share innovative solutions. 
+# wellcomemayhem-spec
 
-# Skills
-- **Programming Languages:** JavaScript, Python, Java
-- **Frameworks:** React, Node.js, Django
-- **Tools:** Git, Docker, AWS
+**Tema:** data-science
 
-# Projects
-- **Awesome Project:** A web application that does XYZ.
-- **Open Source Contribution:** Contributed to ABC project, enhancing its features.
+## Sobre mí
+Enfocado en data-science.
 
-# Contacts
-Feel free to reach out:
-- Email: wellcomemayhem@example.com
-- LinkedIn: [linkedin.com/in/wellcomemayhem](https://linkedin.com/in/wellcomemayhem)
+## Tech
+- Python · Git · CI/CD
+- - data-science
+- pandas
+- numpy
+- visualization
+
+## Enlaces
+- Perfil: https://github.com/wellcomemayhem-spec
